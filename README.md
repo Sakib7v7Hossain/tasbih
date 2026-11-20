@@ -8,7 +8,7 @@ A simple, private dhikr counter and daily dua tracker for Android. It works full
 
 ## Download
 
-**[⬇ Download the APK](app-arm64-v8a-release.apk)**
+**[⬇ Download the APK](https://github.com/Sakib7v7Hossain/tasbin/releases/tag/v1.0.0)**
 
 The file is in this repository (or under **Releases**, if it is posted there). It is the 64-bit build for almost every phone made in the last several years. If the app does not install, your phone is very old: ask for the "universal" APK.
 
