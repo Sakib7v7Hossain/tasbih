@@ -8,13 +8,13 @@ A simple, private dhikr counter and daily dua tracker for Android. It works full
 
 ## Download
 
-**[⬇ Download the APK](https://github.com/Sakib7v7Hossain/tasbin/releases/tag/v1.0.0)**
+**[⬇ Download the latest APK](https://github.com/Sakib7v7Hossain/tasbih/releases/latest)**
 
-The file is in this repository (or under **Releases**, if it is posted there). It is the 64-bit build for almost every phone made in the last several years. If the app does not install, your phone is very old: ask for the "universal" APK.
+On the page that opens, scroll to **Assets** and tap `app-arm64-v8a-release.apk`. It is the 64-bit build for almost every phone made in the last several years. If the app does not install, your phone is very old: open an Issue and I will share a "universal" APK.
 
 ### How to install
 
-1. Download `app-arm64-v8a-release.apk` to your phone.
+1. Download `app-arm64-v8a-release.apk` from the Releases page to your phone.
 2. Open the file. If Android asks, allow your browser or file manager to **install unknown apps**.
 3. If Google Play Protect shows a warning, choose **Install anyway**. The app is not on the Play Store yet, so Google has not seen it before.
 4. Open **Tasbih**.
