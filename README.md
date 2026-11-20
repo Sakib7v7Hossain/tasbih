@@ -1,4 +1,4 @@
-# Tasbih
+<img width="1280" height="640" alt="tasbih-social-preview" src="https://github.com/user-attachments/assets/07a8e2b8-ed43-46da-926f-5d3b21fec22d" />
 
 A simple, private dhikr counter and daily dua tracker for Android. It works fully offline, has no ads and no account, and collects no data.
 
